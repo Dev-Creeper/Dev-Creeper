@@ -1,5 +1,4 @@
 - Hi, I’m @Dev-Creeper
-- I join the github in 2024
 - I’m interested in MineCraft Dev
 - I’m currently learning Java/C++
 - How to reach me klppoc@163.com
